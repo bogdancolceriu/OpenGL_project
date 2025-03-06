@@ -1,0 +1,143 @@
+﻿  Camera.cpp
+C:\BogdanC\Facultate\An3_sem1\Iarna2\OpenGL.Iarna\OpenGL.Iarna\Camera.cpp(7,15): error C2039: 'position': is not a member of 'gps::Camera'
+      C:\BogdanC\Facultate\An3_sem1\Iarna2\OpenGL.Iarna\OpenGL.Iarna\Camera.hpp(11,11):
+      see declaration of 'gps::Camera'
+  
+C:\BogdanC\Facultate\An3_sem1\Iarna2\OpenGL.Iarna\OpenGL.Iarna\Camera.cpp(8,15): error C2039: 'target': is not a member of 'gps::Camera'
+      C:\BogdanC\Facultate\An3_sem1\Iarna2\OpenGL.Iarna\OpenGL.Iarna\Camera.hpp(11,11):
+      see declaration of 'gps::Camera'
+  
+C:\BogdanC\Facultate\An3_sem1\Iarna2\OpenGL.Iarna\OpenGL.Iarna\Camera.cpp(9,15): error C2039: 'front': is not a member of 'gps::Camera'
+      C:\BogdanC\Facultate\An3_sem1\Iarna2\OpenGL.Iarna\OpenGL.Iarna\Camera.hpp(11,11):
+      see declaration of 'gps::Camera'
+  
+C:\BogdanC\Facultate\An3_sem1\Iarna2\OpenGL.Iarna\OpenGL.Iarna\Camera.cpp(10,15): error C2039: 'up': is not a member of 'gps::Camera'
+      C:\BogdanC\Facultate\An3_sem1\Iarna2\OpenGL.Iarna\OpenGL.Iarna\Camera.hpp(11,11):
+      see declaration of 'gps::Camera'
+  
+C:\BogdanC\Facultate\An3_sem1\Iarna2\OpenGL.Iarna\OpenGL.Iarna\Camera.cpp(11,15): error C2039: 'right': is not a member of 'gps::Camera'
+      C:\BogdanC\Facultate\An3_sem1\Iarna2\OpenGL.Iarna\OpenGL.Iarna\Camera.hpp(11,11):
+      see declaration of 'gps::Camera'
+  
+C:\BogdanC\Facultate\An3_sem1\Iarna2\OpenGL.Iarna\OpenGL.Iarna\Camera.cpp(11,55): error C2039: 'front': is not a member of 'gps::Camera'
+      C:\BogdanC\Facultate\An3_sem1\Iarna2\OpenGL.Iarna\OpenGL.Iarna\Camera.hpp(11,11):
+      see declaration of 'gps::Camera'
+  
+C:\BogdanC\Facultate\An3_sem1\Iarna2\OpenGL.Iarna\OpenGL.Iarna\Camera.cpp(11,68): error C2039: 'up': is not a member of 'gps::Camera'
+      C:\BogdanC\Facultate\An3_sem1\Iarna2\OpenGL.Iarna\OpenGL.Iarna\Camera.hpp(11,11):
+      see declaration of 'gps::Camera'
+  
+C:\BogdanC\Facultate\An3_sem1\Iarna2\OpenGL.Iarna\OpenGL.Iarna\Camera.cpp(11,43): error C2672: 'glm::cross': no matching overloaded function found
+      C:\BogdanC\Facultate\An3_sem1\PG\Lab2\Project1\glm\geometric.hpp(59,43):
+      could be 'glm::vec<3,T,Q> glm::cross(const glm::vec<3,T,Q> &,const glm::vec<3,T,Q> &)'
+          C:\BogdanC\Facultate\An3_sem1\Iarna2\OpenGL.Iarna\OpenGL.Iarna\Camera.cpp(11,43):
+          'glm::vec<3,T,Q> glm::cross(const glm::vec<3,T,Q> &,const glm::vec<3,T,Q> &)': expects 2 arguments - 1 provided
+  
+C:\BogdanC\Facultate\An3_sem1\Iarna2\OpenGL.Iarna\OpenGL.Iarna\Camera.cpp(11,28): error C2672: 'glm::normalize': no matching overloaded function found
+      C:\BogdanC\Facultate\An3_sem1\PG\Lab2\Project1\glm\geometric.hpp(70,29):
+      could be 'glm::vec<L,T,Q> glm::normalize(const glm::vec<L,T,Q> &)'
+  
+C:\BogdanC\Facultate\An3_sem1\Iarna2\OpenGL.Iarna\OpenGL.Iarna\Camera.cpp(17,28): error C2065: 'position': undeclared identifier
+C:\BogdanC\Facultate\An3_sem1\Iarna2\OpenGL.Iarna\OpenGL.Iarna\Camera.cpp(17,38): error C2065: 'position': undeclared identifier
+C:\BogdanC\Facultate\An3_sem1\Iarna2\OpenGL.Iarna\OpenGL.Iarna\Camera.cpp(17,49): error C2065: 'front': undeclared identifier
+C:\BogdanC\Facultate\An3_sem1\Iarna2\OpenGL.Iarna\OpenGL.Iarna\Camera.cpp(17,56): error C2065: 'up': undeclared identifier
+C:\BogdanC\Facultate\An3_sem1\Iarna2\OpenGL.Iarna\OpenGL.Iarna\Camera.cpp(26,17): error C2065: 'position': undeclared identifier
+C:\BogdanC\Facultate\An3_sem1\Iarna2\OpenGL.Iarna\OpenGL.Iarna\Camera.cpp(28,17): error C2065: 'position': undeclared identifier
+C:\BogdanC\Facultate\An3_sem1\Iarna2\OpenGL.Iarna\OpenGL.Iarna\Camera.cpp(32,17): error C2065: 'position': undeclared identifier
+C:\BogdanC\Facultate\An3_sem1\Iarna2\OpenGL.Iarna\OpenGL.Iarna\Camera.cpp(32,29): error C2065: 'front': undeclared identifier
+C:\BogdanC\Facultate\An3_sem1\Iarna2\OpenGL.Iarna\OpenGL.Iarna\Camera.cpp(37,13): error C2065: 'position': undeclared identifier
+C:\BogdanC\Facultate\An3_sem1\Iarna2\OpenGL.Iarna\OpenGL.Iarna\Camera.cpp(37,25): error C2065: 'front': undeclared identifier
+C:\BogdanC\Facultate\An3_sem1\Iarna2\OpenGL.Iarna\OpenGL.Iarna\Camera.cpp(41,13): error C2065: 'position': undeclared identifier
+C:\BogdanC\Facultate\An3_sem1\Iarna2\OpenGL.Iarna\OpenGL.Iarna\Camera.cpp(41,25): error C2065: 'right': undeclared identifier
+C:\BogdanC\Facultate\An3_sem1\Iarna2\OpenGL.Iarna\OpenGL.Iarna\Camera.cpp(45,13): error C2065: 'position': undeclared identifier
+C:\BogdanC\Facultate\An3_sem1\Iarna2\OpenGL.Iarna\OpenGL.Iarna\Camera.cpp(45,25): error C2065: 'right': undeclared identifier
+C:\BogdanC\Facultate\An3_sem1\Iarna2\OpenGL.Iarna\OpenGL.Iarna\Camera.cpp(61,9): error C2065: 'front': undeclared identifier
+  main.cpp
+C:\BogdanC\Facultate\An3_sem1\Iarna2\OpenGL.Iarna\OpenGL.Iarna\main.cpp(482,5): error C3861: 'randomLargeLoopOne': identifier not found
+C:\BogdanC\Facultate\An3_sem1\Iarna2\OpenGL.Iarna\OpenGL.Iarna\main.cpp(483,5): error C3861: 'randomLargeLoopTwo': identifier not found
+C:\BogdanC\Facultate\An3_sem1\Iarna2\OpenGL.Iarna\OpenGL.Iarna\main.cpp(484,5): error C3861: 'randomLargeLoopThree': identifier not found
+C:\BogdanC\Facultate\An3_sem1\Iarna2\OpenGL.Iarna\OpenGL.Iarna\main.cpp(485,5): error C3861: 'randomLargeLoopFour': identifier not found
+C:\BogdanC\Facultate\An3_sem1\Iarna2\OpenGL.Iarna\OpenGL.Iarna\main.cpp(512,2): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\BogdanC\Facultate\An3_sem1\Iarna2\OpenGL.Iarna\OpenGL.Iarna\main.cpp(512,2): error C2371: 'glewExperimental': redefinition; different basic types
+      C:\BogdanC\Facultate\An3_sem1\PG\Lab2\Project1\Project1\OpenGL dev libs\include\GL\glew.h(23659,19):
+      see declaration of 'glewExperimental'
+  
+C:\BogdanC\Facultate\An3_sem1\Iarna2\OpenGL.Iarna\OpenGL.Iarna\main.cpp(513,2): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\BogdanC\Facultate\An3_sem1\Iarna2\OpenGL.Iarna\OpenGL.Iarna\main.cpp(513,2): error C2556: 'int glewInit(void)': overloaded function differs only by return type from 'GLenum glewInit(void)'
+      C:\BogdanC\Facultate\An3_sem1\PG\Lab2\Project1\Project1\OpenGL dev libs\include\GL\glew.h(23647,29):
+      see declaration of 'glewInit'
+  
+C:\BogdanC\Facultate\An3_sem1\Iarna2\OpenGL.Iarna\OpenGL.Iarna\main.cpp(513,2): error C2371: 'glewInit': redefinition; different basic types
+      C:\BogdanC\Facultate\An3_sem1\PG\Lab2\Project1\Project1\OpenGL dev libs\include\GL\glew.h(23647,29):
+      see declaration of 'glewInit'
+  
+  Mesh.cpp
+C:\BogdanC\Facultate\An3_sem1\Iarna2\OpenGL.Iarna\OpenGL.Iarna\Mesh.cpp(37,47): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+  Model3D.cpp
+C:\BogdanC\Facultate\An3_sem1\Iarna2\OpenGL.Iarna\OpenGL.Iarna\Model3D.cpp(8,3): error C3861: 'ParseOBJ': identifier not found
+C:\BogdanC\Facultate\An3_sem1\Iarna2\OpenGL.Iarna\OpenGL.Iarna\Model3D.cpp(13,3): error C3861: 'ParseOBJ': identifier not found
+C:\BogdanC\Facultate\An3_sem1\Iarna2\OpenGL.Iarna\OpenGL.Iarna\Model3D.cpp(22,16): error C2039: 'ParseOBJ': is not a member of 'gps::Model3D'
+      C:\BogdanC\Facultate\An3_sem1\Iarna2\OpenGL.Iarna\OpenGL.Iarna\Model3D.hpp(15,8):
+      see declaration of 'gps::Model3D'
+  
+C:\BogdanC\Facultate\An3_sem1\Iarna2\OpenGL.Iarna\OpenGL.Iarna\Model3D.cpp(101,30): error C3861: 'LoadTexture': identifier not found
+C:\BogdanC\Facultate\An3_sem1\Iarna2\OpenGL.Iarna\OpenGL.Iarna\Model3D.cpp(106,30): error C3861: 'LoadTexture': identifier not found
+C:\BogdanC\Facultate\An3_sem1\Iarna2\OpenGL.Iarna\OpenGL.Iarna\Model3D.cpp(111,30): error C3861: 'LoadTexture': identifier not found
+C:\BogdanC\Facultate\An3_sem1\Iarna2\OpenGL.Iarna\OpenGL.Iarna\Model3D.cpp(116,4): error C2065: 'meshes': undeclared identifier
+C:\BogdanC\Facultate\An3_sem1\Iarna2\OpenGL.Iarna\OpenGL.Iarna\Model3D.cpp(165,41): error C2102: '&' requires l-value
+C:\BogdanC\Facultate\An3_sem1\Iarna2\OpenGL.Iarna\OpenGL.Iarna\Model3D.cpp(166,41): error C2102: '&' requires l-value
+C:\BogdanC\Facultate\An3_sem1\Iarna2\OpenGL.Iarna\OpenGL.Iarna\Model3D.cpp(167,46): error C2102: '&' requires l-value
+  Shader.cpp
+C:\BogdanC\Facultate\An3_sem1\Iarna2\OpenGL.Iarna\OpenGL.Iarna\Shader.cpp(35,58): error C2065: 'infoLog': undeclared identifier
+C:\BogdanC\Facultate\An3_sem1\Iarna2\OpenGL.Iarna\OpenGL.Iarna\Shader.cpp(48,54): error C2065: 'infoLog': undeclared identifier
+  SkyBox.cpp
+C:\BogdanC\Facultate\An3_sem1\Iarna2\OpenGL.Iarna\OpenGL.Iarna\SkyBox.cpp(10,9): error C2065: 'skyTexture': undeclared identifier
+C:\BogdanC\Facultate\An3_sem1\Iarna2\OpenGL.Iarna\OpenGL.Iarna\SkyBox.cpp(10,22): error C3861: 'LoadSkyDomeTextures': identifier not found
+C:\BogdanC\Facultate\An3_sem1\Iarna2\OpenGL.Iarna\OpenGL.Iarna\SkyBox.cpp(11,9): error C3861: 'InitSkyDome': identifier not found
+C:\BogdanC\Facultate\An3_sem1\Iarna2\OpenGL.Iarna\OpenGL.Iarna\SkyBox.cpp(14,18): error C2039: 'Draw': is not a member of 'gps::SkyBox'
+      C:\BogdanC\Facultate\An3_sem1\Iarna2\OpenGL.Iarna\OpenGL.Iarna\SkyBox.hpp(12,11):
+      see declaration of 'gps::SkyBox'
+  
+C:\BogdanC\Facultate\An3_sem1\Iarna2\OpenGL.Iarna\OpenGL.Iarna\SkyBox.cpp(24,27): error C2065: 'skyVAO': undeclared identifier
+C:\BogdanC\Facultate\An3_sem1\Iarna2\OpenGL.Iarna\OpenGL.Iarna\SkyBox.cpp(27,44): error C2065: 'skyTexture': undeclared identifier
+C:\BogdanC\Facultate\An3_sem1\Iarna2\OpenGL.Iarna\OpenGL.Iarna\SkyBox.cpp(34,20): error C2039: 'LoadSkyDomeTextures': is not a member of 'gps::SkyBox'
+      C:\BogdanC\Facultate\An3_sem1\Iarna2\OpenGL.Iarna\OpenGL.Iarna\SkyBox.hpp(12,11):
+      see declaration of 'gps::SkyBox'
+  
+C:\BogdanC\Facultate\An3_sem1\Iarna2\OpenGL.Iarna\OpenGL.Iarna\SkyBox.cpp(66,18): error C2039: 'InitSkyDome': is not a member of 'gps::SkyBox'
+      C:\BogdanC\Facultate\An3_sem1\Iarna2\OpenGL.Iarna\OpenGL.Iarna\SkyBox.hpp(12,11):
+      see declaration of 'gps::SkyBox'
+  
+C:\BogdanC\Facultate\An3_sem1\Iarna2\OpenGL.Iarna\OpenGL.Iarna\SkyBox.cpp(89,31): error C2065: 'skyVAO': undeclared identifier
+C:\BogdanC\Facultate\An3_sem1\Iarna2\OpenGL.Iarna\OpenGL.Iarna\SkyBox.cpp(90,26): error C2065: 'skyVBO': undeclared identifier
+C:\BogdanC\Facultate\An3_sem1\Iarna2\OpenGL.Iarna\OpenGL.Iarna\SkyBox.cpp(91,26): error C2065: 'skyEBO': undeclared identifier
+C:\BogdanC\Facultate\An3_sem1\Iarna2\OpenGL.Iarna\OpenGL.Iarna\SkyBox.cpp(93,27): error C2065: 'skyVAO': undeclared identifier
+C:\BogdanC\Facultate\An3_sem1\Iarna2\OpenGL.Iarna\OpenGL.Iarna\SkyBox.cpp(95,39): error C2065: 'skyVBO': undeclared identifier
+C:\BogdanC\Facultate\An3_sem1\Iarna2\OpenGL.Iarna\OpenGL.Iarna\SkyBox.cpp(98,47): error C2065: 'skyEBO': undeclared identifier
+C:\BogdanC\Facultate\An3_sem1\Iarna2\OpenGL.Iarna\OpenGL.Iarna\SkyBox.cpp(108,16): error C2065: 'skyTexture': undeclared identifier
+  stb_image.cpp
+  tiny_obj_loader.cpp
+  Window.cpp
+C:\BogdanC\Facultate\An3_sem1\Iarna2\OpenGL.Iarna\OpenGL.Iarna\Window.cpp(5,10): error C2653: 'Window': is not a class or namespace name
+C:\BogdanC\Facultate\An3_sem1\Iarna2\OpenGL.Iarna\OpenGL.Iarna\Window.cpp(22,9): error C2355: 'this': can only be referenced inside non-static member functions or non-static data member initializers
+C:\BogdanC\Facultate\An3_sem1\Iarna2\OpenGL.Iarna\OpenGL.Iarna\Window.cpp(23,14): error C2355: 'this': can only be referenced inside non-static member functions or non-static data member initializers
+C:\BogdanC\Facultate\An3_sem1\Iarna2\OpenGL.Iarna\OpenGL.Iarna\Window.cpp(27,32): error C2065: 'window': undeclared identifier
+C:\BogdanC\Facultate\An3_sem1\Iarna2\OpenGL.Iarna\OpenGL.Iarna\Window.cpp(45,32): error C2065: 'window': undeclared identifier
+C:\BogdanC\Facultate\An3_sem1\Iarna2\OpenGL.Iarna\OpenGL.Iarna\Window.cpp(45,41): error C2355: 'this': can only be referenced inside non-static member functions or non-static data member initializers
+C:\BogdanC\Facultate\An3_sem1\Iarna2\OpenGL.Iarna\OpenGL.Iarna\Window.cpp(45,66): error C2355: 'this': can only be referenced inside non-static member functions or non-static data member initializers
+C:\BogdanC\Facultate\An3_sem1\Iarna2\OpenGL.Iarna\OpenGL.Iarna\Window.cpp(48,10): error C2653: 'Window': is not a class or namespace name
+C:\BogdanC\Facultate\An3_sem1\Iarna2\OpenGL.Iarna\OpenGL.Iarna\Window.cpp(49,13): error C2065: 'window': undeclared identifier
+C:\BogdanC\Facultate\An3_sem1\Iarna2\OpenGL.Iarna\OpenGL.Iarna\Window.cpp(50,31): error C2065: 'window': undeclared identifier
+C:\BogdanC\Facultate\An3_sem1\Iarna2\OpenGL.Iarna\OpenGL.Iarna\Window.cpp(56,17): error C2653: 'Window': is not a class or namespace name
+C:\BogdanC\Facultate\An3_sem1\Iarna2\OpenGL.Iarna\OpenGL.Iarna\Window.cpp(57,16): error C2355: 'this': can only be referenced inside non-static member functions or non-static data member initializers
+C:\BogdanC\Facultate\An3_sem1\Iarna2\OpenGL.Iarna\OpenGL.Iarna\Window.cpp(60,22): error C2653: 'Window': is not a class or namespace name
+C:\BogdanC\Facultate\An3_sem1\Iarna2\OpenGL.Iarna\OpenGL.Iarna\Window.cpp(60,5): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\BogdanC\Facultate\An3_sem1\Iarna2\OpenGL.Iarna\OpenGL.Iarna\Window.cpp(60,30): error C2146: syntax error: missing ';' before identifier 'getWindowDimensions'
+C:\BogdanC\Facultate\An3_sem1\Iarna2\OpenGL.Iarna\OpenGL.Iarna\Window.cpp(60,52): error C2143: syntax error: missing ';' before '{'
+C:\BogdanC\Facultate\An3_sem1\Iarna2\OpenGL.Iarna\OpenGL.Iarna\Window.cpp(60,52): error C2447: '{': missing function header (old-style formal list?)
+C:\BogdanC\Facultate\An3_sem1\Iarna2\OpenGL.Iarna\OpenGL.Iarna\Window.cpp(64,10): error C2653: 'Window': is not a class or namespace name
+C:\BogdanC\Facultate\An3_sem1\Iarna2\OpenGL.Iarna\OpenGL.Iarna\Window.cpp(64,18): error C2182: 'setWindowDimensions': this use of 'void' is not valid
+C:\BogdanC\Facultate\An3_sem1\Iarna2\OpenGL.Iarna\OpenGL.Iarna\Window.cpp(64,55): error C2146: syntax error: missing ')' before identifier 'newDimensions'
+C:\BogdanC\Facultate\An3_sem1\Iarna2\OpenGL.Iarna\OpenGL.Iarna\Window.cpp(64,70): error C2143: syntax error: missing ';' before '{'
+C:\BogdanC\Facultate\An3_sem1\Iarna2\OpenGL.Iarna\OpenGL.Iarna\Window.cpp(64,70): error C2447: '{': missing function header (old-style formal list?)
+  Generating Code...

@@ -1,0 +1,421 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\BogdanC\\Facultate\\An3_sem1\\Iarna2\\OpenGL.Iarna\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C0EF8693-758A-4E2F-B07D-192A348C00F9}|OpenGL.Iarna\\OpenGL.Iarna.vcxproj|C:\\BogdanC\\Facultate\\An3_sem1\\Iarna2\\OpenGL.Iarna\\OpenGL.Iarna\\Mesh.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C0EF8693-758A-4E2F-B07D-192A348C00F9}|OpenGL.Iarna\\OpenGL.Iarna.vcxproj|solutionrelative:OpenGL.Iarna\\Mesh.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0EF8693-758A-4E2F-B07D-192A348C00F9}|OpenGL.Iarna\\OpenGL.Iarna.vcxproj|C:\\BogdanC\\Facultate\\An3_sem1\\Iarna2\\OpenGL.Iarna\\OpenGL.Iarna\\tiny_obj_loader.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C0EF8693-758A-4E2F-B07D-192A348C00F9}|OpenGL.Iarna\\OpenGL.Iarna.vcxproj|solutionrelative:OpenGL.Iarna\\tiny_obj_loader.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0EF8693-758A-4E2F-B07D-192A348C00F9}|OpenGL.Iarna\\OpenGL.Iarna.vcxproj|C:\\BogdanC\\Facultate\\An3_sem1\\Iarna2\\OpenGL.Iarna\\OpenGL.Iarna\\SkyBox.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C0EF8693-758A-4E2F-B07D-192A348C00F9}|OpenGL.Iarna\\OpenGL.Iarna.vcxproj|solutionrelative:OpenGL.Iarna\\SkyBox.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0EF8693-758A-4E2F-B07D-192A348C00F9}|OpenGL.Iarna\\OpenGL.Iarna.vcxproj|C:\\BogdanC\\Facultate\\An3_sem1\\Iarna2\\OpenGL.Iarna\\OpenGL.Iarna\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C0EF8693-758A-4E2F-B07D-192A348C00F9}|OpenGL.Iarna\\OpenGL.Iarna.vcxproj|solutionrelative:OpenGL.Iarna\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\BogdanC\\Facultate\\An3_sem1\\Iarna2\\OpenGL.Iarna\\OpenGL.Iarna\\shaders\\screenQuad.vert||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:OpenGL.Iarna\\shaders\\screenQuad.vert||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\BogdanC\\Facultate\\An3_sem1\\Iarna2\\OpenGL.Iarna\\OpenGL.Iarna\\shaders\\skyboxShader.frag||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:OpenGL.Iarna\\shaders\\skyboxShader.frag||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\BogdanC\\Facultate\\An3_sem1\\Iarna2\\OpenGL.Iarna\\OpenGL.Iarna\\shaders\\skyboxShader.vert||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:OpenGL.Iarna\\shaders\\skyboxShader.vert||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\BogdanC\\Facultate\\An3_sem1\\Iarna2\\OpenGL.Iarna\\OpenGL.Iarna\\shaders\\screenQuad.frag||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:OpenGL.Iarna\\shaders\\screenQuad.frag||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\BogdanC\\Facultate\\An3_sem1\\Iarna2\\OpenGL.Iarna\\OpenGL.Iarna\\shaders\\lightCube.vert||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:OpenGL.Iarna\\shaders\\lightCube.vert||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\BogdanC\\Facultate\\An3_sem1\\Iarna2\\OpenGL.Iarna\\OpenGL.Iarna\\shaders\\lightCube.frag||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:OpenGL.Iarna\\shaders\\lightCube.frag||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\BogdanC\\Facultate\\An3_sem1\\Iarna2\\OpenGL.Iarna\\OpenGL.Iarna\\shaders\\basic.vert||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:OpenGL.Iarna\\shaders\\basic.vert||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\BogdanC\\Facultate\\An3_sem1\\Iarna2\\OpenGL.Iarna\\OpenGL.Iarna\\shaders\\basic.frag||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:OpenGL.Iarna\\shaders\\basic.frag||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0EF8693-758A-4E2F-B07D-192A348C00F9}|OpenGL.Iarna\\OpenGL.Iarna.vcxproj|C:\\BogdanC\\Facultate\\An3_sem1\\Iarna2\\OpenGL.Iarna\\OpenGL.Iarna\\Camera.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C0EF8693-758A-4E2F-B07D-192A348C00F9}|OpenGL.Iarna\\OpenGL.Iarna.vcxproj|solutionrelative:OpenGL.Iarna\\Camera.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0EF8693-758A-4E2F-B07D-192A348C00F9}|OpenGL.Iarna\\OpenGL.Iarna.vcxproj|C:\\BogdanC\\Facultate\\An3_sem1\\Iarna2\\OpenGL.Iarna\\OpenGL.Iarna\\Mesh.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C0EF8693-758A-4E2F-B07D-192A348C00F9}|OpenGL.Iarna\\OpenGL.Iarna.vcxproj|solutionrelative:OpenGL.Iarna\\Mesh.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0EF8693-758A-4E2F-B07D-192A348C00F9}|OpenGL.Iarna\\OpenGL.Iarna.vcxproj|C:\\BogdanC\\Facultate\\An3_sem1\\Iarna2\\OpenGL.Iarna\\OpenGL.Iarna\\Model3D.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C0EF8693-758A-4E2F-B07D-192A348C00F9}|OpenGL.Iarna\\OpenGL.Iarna.vcxproj|solutionrelative:OpenGL.Iarna\\Model3D.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0EF8693-758A-4E2F-B07D-192A348C00F9}|OpenGL.Iarna\\OpenGL.Iarna.vcxproj|C:\\BogdanC\\Facultate\\An3_sem1\\Iarna2\\OpenGL.Iarna\\OpenGL.Iarna\\Shader.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C0EF8693-758A-4E2F-B07D-192A348C00F9}|OpenGL.Iarna\\OpenGL.Iarna.vcxproj|solutionrelative:OpenGL.Iarna\\Shader.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0EF8693-758A-4E2F-B07D-192A348C00F9}|OpenGL.Iarna\\OpenGL.Iarna.vcxproj|C:\\BogdanC\\Facultate\\An3_sem1\\Iarna2\\OpenGL.Iarna\\OpenGL.Iarna\\SkyBox.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C0EF8693-758A-4E2F-B07D-192A348C00F9}|OpenGL.Iarna\\OpenGL.Iarna.vcxproj|solutionrelative:OpenGL.Iarna\\SkyBox.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0EF8693-758A-4E2F-B07D-192A348C00F9}|OpenGL.Iarna\\OpenGL.Iarna.vcxproj|C:\\BogdanC\\Facultate\\An3_sem1\\Iarna2\\OpenGL.Iarna\\OpenGL.Iarna\\stb_image.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C0EF8693-758A-4E2F-B07D-192A348C00F9}|OpenGL.Iarna\\OpenGL.Iarna.vcxproj|solutionrelative:OpenGL.Iarna\\stb_image.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0EF8693-758A-4E2F-B07D-192A348C00F9}|OpenGL.Iarna\\OpenGL.Iarna.vcxproj|C:\\BogdanC\\Facultate\\An3_sem1\\Iarna2\\OpenGL.Iarna\\OpenGL.Iarna\\tiny_obj_loader.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C0EF8693-758A-4E2F-B07D-192A348C00F9}|OpenGL.Iarna\\OpenGL.Iarna.vcxproj|solutionrelative:OpenGL.Iarna\\tiny_obj_loader.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0EF8693-758A-4E2F-B07D-192A348C00F9}|OpenGL.Iarna\\OpenGL.Iarna.vcxproj|C:\\BogdanC\\Facultate\\An3_sem1\\Iarna2\\OpenGL.Iarna\\OpenGL.Iarna\\Window.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C0EF8693-758A-4E2F-B07D-192A348C00F9}|OpenGL.Iarna\\OpenGL.Iarna.vcxproj|solutionrelative:OpenGL.Iarna\\Window.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0EF8693-758A-4E2F-B07D-192A348C00F9}|OpenGL.Iarna\\OpenGL.Iarna.vcxproj|C:\\BogdanC\\Facultate\\An3_sem1\\Iarna2\\OpenGL.Iarna\\OpenGL.Iarna\\Window.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C0EF8693-758A-4E2F-B07D-192A348C00F9}|OpenGL.Iarna\\OpenGL.Iarna.vcxproj|solutionrelative:OpenGL.Iarna\\Window.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0EF8693-758A-4E2F-B07D-192A348C00F9}|OpenGL.Iarna\\OpenGL.Iarna.vcxproj|C:\\BogdanC\\Facultate\\An3_sem1\\Iarna2\\OpenGL.Iarna\\OpenGL.Iarna\\stb_image.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C0EF8693-758A-4E2F-B07D-192A348C00F9}|OpenGL.Iarna\\OpenGL.Iarna.vcxproj|solutionrelative:OpenGL.Iarna\\stb_image.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0EF8693-758A-4E2F-B07D-192A348C00F9}|OpenGL.Iarna\\OpenGL.Iarna.vcxproj|C:\\BogdanC\\Facultate\\An3_sem1\\Iarna2\\OpenGL.Iarna\\OpenGL.Iarna\\Shader.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C0EF8693-758A-4E2F-B07D-192A348C00F9}|OpenGL.Iarna\\OpenGL.Iarna.vcxproj|solutionrelative:OpenGL.Iarna\\Shader.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0EF8693-758A-4E2F-B07D-192A348C00F9}|OpenGL.Iarna\\OpenGL.Iarna.vcxproj|C:\\BogdanC\\Facultate\\An3_sem1\\Iarna2\\OpenGL.Iarna\\OpenGL.Iarna\\Model3D.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C0EF8693-758A-4E2F-B07D-192A348C00F9}|OpenGL.Iarna\\OpenGL.Iarna.vcxproj|solutionrelative:OpenGL.Iarna\\Model3D.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0EF8693-758A-4E2F-B07D-192A348C00F9}|OpenGL.Iarna\\OpenGL.Iarna.vcxproj|C:\\BogdanC\\Facultate\\An3_sem1\\Iarna2\\OpenGL.Iarna\\OpenGL.Iarna\\Camera.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C0EF8693-758A-4E2F-B07D-192A348C00F9}|OpenGL.Iarna\\OpenGL.Iarna.vcxproj|solutionrelative:OpenGL.Iarna\\Camera.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "skyboxShader.vert",
+              "DocumentMoniker": "C:\\BogdanC\\Facultate\\An3_sem1\\Iarna2\\OpenGL.Iarna\\OpenGL.Iarna\\shaders\\skyboxShader.vert",
+              "RelativeDocumentMoniker": "OpenGL.Iarna\\shaders\\skyboxShader.vert",
+              "ToolTip": "C:\\BogdanC\\Facultate\\An3_sem1\\Iarna2\\OpenGL.Iarna\\OpenGL.Iarna\\shaders\\skyboxShader.vert",
+              "RelativeToolTip": "OpenGL.Iarna\\shaders\\skyboxShader.vert",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-16T17:40:24.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "skyboxShader.frag",
+              "DocumentMoniker": "C:\\BogdanC\\Facultate\\An3_sem1\\Iarna2\\OpenGL.Iarna\\OpenGL.Iarna\\shaders\\skyboxShader.frag",
+              "RelativeDocumentMoniker": "OpenGL.Iarna\\shaders\\skyboxShader.frag",
+              "ToolTip": "C:\\BogdanC\\Facultate\\An3_sem1\\Iarna2\\OpenGL.Iarna\\OpenGL.Iarna\\shaders\\skyboxShader.frag",
+              "RelativeToolTip": "OpenGL.Iarna\\shaders\\skyboxShader.frag",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-16T17:39:43.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "screenQuad.vert",
+              "DocumentMoniker": "C:\\BogdanC\\Facultate\\An3_sem1\\Iarna2\\OpenGL.Iarna\\OpenGL.Iarna\\shaders\\screenQuad.vert",
+              "RelativeDocumentMoniker": "OpenGL.Iarna\\shaders\\screenQuad.vert",
+              "ToolTip": "C:\\BogdanC\\Facultate\\An3_sem1\\Iarna2\\OpenGL.Iarna\\OpenGL.Iarna\\shaders\\screenQuad.vert",
+              "RelativeToolTip": "OpenGL.Iarna\\shaders\\screenQuad.vert",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-16T17:38:56.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "basic.frag",
+              "DocumentMoniker": "C:\\BogdanC\\Facultate\\An3_sem1\\Iarna2\\OpenGL.Iarna\\OpenGL.Iarna\\shaders\\basic.frag",
+              "RelativeDocumentMoniker": "OpenGL.Iarna\\shaders\\basic.frag",
+              "ToolTip": "C:\\BogdanC\\Facultate\\An3_sem1\\Iarna2\\OpenGL.Iarna\\OpenGL.Iarna\\shaders\\basic.frag",
+              "RelativeToolTip": "OpenGL.Iarna\\shaders\\basic.frag",
+              "ViewState": "AgIAAIMAAAAAAAAAAAAYwI4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-16T17:11:29.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Camera.hpp",
+              "DocumentMoniker": "C:\\BogdanC\\Facultate\\An3_sem1\\Iarna2\\OpenGL.Iarna\\OpenGL.Iarna\\Camera.hpp",
+              "RelativeDocumentMoniker": "OpenGL.Iarna\\Camera.hpp",
+              "ToolTip": "C:\\BogdanC\\Facultate\\An3_sem1\\Iarna2\\OpenGL.Iarna\\OpenGL.Iarna\\Camera.hpp",
+              "RelativeToolTip": "OpenGL.Iarna\\Camera.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-16T16:04:32.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Mesh.hpp",
+              "DocumentMoniker": "C:\\BogdanC\\Facultate\\An3_sem1\\Iarna2\\OpenGL.Iarna\\OpenGL.Iarna\\Mesh.hpp",
+              "RelativeDocumentMoniker": "OpenGL.Iarna\\Mesh.hpp",
+              "ToolTip": "C:\\BogdanC\\Facultate\\An3_sem1\\Iarna2\\OpenGL.Iarna\\OpenGL.Iarna\\Mesh.hpp",
+              "RelativeToolTip": "OpenGL.Iarna\\Mesh.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-16T16:03:50.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\BogdanC\\Facultate\\An3_sem1\\Iarna2\\OpenGL.Iarna\\OpenGL.Iarna\\main.cpp",
+              "RelativeDocumentMoniker": "OpenGL.Iarna\\main.cpp",
+              "ToolTip": "C:\\BogdanC\\Facultate\\An3_sem1\\Iarna2\\OpenGL.Iarna\\OpenGL.Iarna\\main.cpp",
+              "RelativeToolTip": "OpenGL.Iarna\\main.cpp",
+              "ViewState": "AgIAAGkDAAAAAAAAAAAAAAACAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-14T08:08:20.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SkyBox.cpp",
+              "DocumentMoniker": "C:\\BogdanC\\Facultate\\An3_sem1\\Iarna2\\OpenGL.Iarna\\OpenGL.Iarna\\SkyBox.cpp",
+              "RelativeDocumentMoniker": "OpenGL.Iarna\\SkyBox.cpp",
+              "ToolTip": "C:\\BogdanC\\Facultate\\An3_sem1\\Iarna2\\OpenGL.Iarna\\OpenGL.Iarna\\SkyBox.cpp",
+              "RelativeToolTip": "OpenGL.Iarna\\SkyBox.cpp",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-16T15:37:54.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "tiny_obj_loader.cpp",
+              "DocumentMoniker": "C:\\BogdanC\\Facultate\\An3_sem1\\Iarna2\\OpenGL.Iarna\\OpenGL.Iarna\\tiny_obj_loader.cpp",
+              "RelativeDocumentMoniker": "OpenGL.Iarna\\tiny_obj_loader.cpp",
+              "ToolTip": "C:\\BogdanC\\Facultate\\An3_sem1\\Iarna2\\OpenGL.Iarna\\OpenGL.Iarna\\tiny_obj_loader.cpp",
+              "RelativeToolTip": "OpenGL.Iarna\\tiny_obj_loader.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-16T15:52:19.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Mesh.cpp",
+              "DocumentMoniker": "C:\\BogdanC\\Facultate\\An3_sem1\\Iarna2\\OpenGL.Iarna\\OpenGL.Iarna\\Mesh.cpp",
+              "RelativeDocumentMoniker": "OpenGL.Iarna\\Mesh.cpp",
+              "ToolTip": "C:\\BogdanC\\Facultate\\An3_sem1\\Iarna2\\OpenGL.Iarna\\OpenGL.Iarna\\Mesh.cpp",
+              "RelativeToolTip": "OpenGL.Iarna\\Mesh.cpp",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAEgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-16T15:08:22.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "basic.vert",
+              "DocumentMoniker": "C:\\BogdanC\\Facultate\\An3_sem1\\Iarna2\\OpenGL.Iarna\\OpenGL.Iarna\\shaders\\basic.vert",
+              "RelativeDocumentMoniker": "OpenGL.Iarna\\shaders\\basic.vert",
+              "ToolTip": "C:\\BogdanC\\Facultate\\An3_sem1\\Iarna2\\OpenGL.Iarna\\OpenGL.Iarna\\shaders\\basic.vert",
+              "RelativeToolTip": "OpenGL.Iarna\\shaders\\basic.vert",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-16T17:32:52.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "lightCube.frag",
+              "DocumentMoniker": "C:\\BogdanC\\Facultate\\An3_sem1\\Iarna2\\OpenGL.Iarna\\OpenGL.Iarna\\shaders\\lightCube.frag",
+              "RelativeDocumentMoniker": "OpenGL.Iarna\\shaders\\lightCube.frag",
+              "ToolTip": "C:\\BogdanC\\Facultate\\An3_sem1\\Iarna2\\OpenGL.Iarna\\OpenGL.Iarna\\shaders\\lightCube.frag",
+              "RelativeToolTip": "OpenGL.Iarna\\shaders\\lightCube.frag",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-16T17:36:14.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "lightCube.vert",
+              "DocumentMoniker": "C:\\BogdanC\\Facultate\\An3_sem1\\Iarna2\\OpenGL.Iarna\\OpenGL.Iarna\\shaders\\lightCube.vert",
+              "RelativeDocumentMoniker": "OpenGL.Iarna\\shaders\\lightCube.vert",
+              "ToolTip": "C:\\BogdanC\\Facultate\\An3_sem1\\Iarna2\\OpenGL.Iarna\\OpenGL.Iarna\\shaders\\lightCube.vert",
+              "RelativeToolTip": "OpenGL.Iarna\\shaders\\lightCube.vert",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-16T17:37:18.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "screenQuad.frag",
+              "DocumentMoniker": "C:\\BogdanC\\Facultate\\An3_sem1\\Iarna2\\OpenGL.Iarna\\OpenGL.Iarna\\shaders\\screenQuad.frag",
+              "RelativeDocumentMoniker": "OpenGL.Iarna\\shaders\\screenQuad.frag",
+              "ToolTip": "C:\\BogdanC\\Facultate\\An3_sem1\\Iarna2\\OpenGL.Iarna\\OpenGL.Iarna\\shaders\\screenQuad.frag",
+              "RelativeToolTip": "OpenGL.Iarna\\shaders\\screenQuad.frag",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-16T17:38:14.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Model3D.hpp",
+              "DocumentMoniker": "C:\\BogdanC\\Facultate\\An3_sem1\\Iarna2\\OpenGL.Iarna\\OpenGL.Iarna\\Model3D.hpp",
+              "RelativeDocumentMoniker": "OpenGL.Iarna\\Model3D.hpp",
+              "ToolTip": "C:\\BogdanC\\Facultate\\An3_sem1\\Iarna2\\OpenGL.Iarna\\OpenGL.Iarna\\Model3D.hpp",
+              "RelativeToolTip": "OpenGL.Iarna\\Model3D.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-16T16:03:20.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Shader.hpp",
+              "DocumentMoniker": "C:\\BogdanC\\Facultate\\An3_sem1\\Iarna2\\OpenGL.Iarna\\OpenGL.Iarna\\Shader.hpp",
+              "RelativeDocumentMoniker": "OpenGL.Iarna\\Shader.hpp",
+              "ToolTip": "C:\\BogdanC\\Facultate\\An3_sem1\\Iarna2\\OpenGL.Iarna\\OpenGL.Iarna\\Shader.hpp",
+              "RelativeToolTip": "OpenGL.Iarna\\Shader.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-16T16:01:57.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SkyBox.hpp",
+              "DocumentMoniker": "C:\\BogdanC\\Facultate\\An3_sem1\\Iarna2\\OpenGL.Iarna\\OpenGL.Iarna\\SkyBox.hpp",
+              "RelativeDocumentMoniker": "OpenGL.Iarna\\SkyBox.hpp",
+              "ToolTip": "C:\\BogdanC\\Facultate\\An3_sem1\\Iarna2\\OpenGL.Iarna\\OpenGL.Iarna\\SkyBox.hpp",
+              "RelativeToolTip": "OpenGL.Iarna\\SkyBox.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-16T15:59:14.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "stb_image.h",
+              "DocumentMoniker": "C:\\BogdanC\\Facultate\\An3_sem1\\Iarna2\\OpenGL.Iarna\\OpenGL.Iarna\\stb_image.h",
+              "RelativeDocumentMoniker": "OpenGL.Iarna\\stb_image.h",
+              "ToolTip": "C:\\BogdanC\\Facultate\\An3_sem1\\Iarna2\\OpenGL.Iarna\\OpenGL.Iarna\\stb_image.h",
+              "RelativeToolTip": "OpenGL.Iarna\\stb_image.h",
+              "ViewState": "AgIAAKUeAAAAAAAAAAAowLceAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-16T15:58:37.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "tiny_obj_loader.h",
+              "DocumentMoniker": "C:\\BogdanC\\Facultate\\An3_sem1\\Iarna2\\OpenGL.Iarna\\OpenGL.Iarna\\tiny_obj_loader.h",
+              "RelativeDocumentMoniker": "OpenGL.Iarna\\tiny_obj_loader.h",
+              "ToolTip": "C:\\BogdanC\\Facultate\\An3_sem1\\Iarna2\\OpenGL.Iarna\\OpenGL.Iarna\\tiny_obj_loader.h",
+              "RelativeToolTip": "OpenGL.Iarna\\tiny_obj_loader.h",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAAAIsGAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-16T15:57:45.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Window.h",
+              "DocumentMoniker": "C:\\BogdanC\\Facultate\\An3_sem1\\Iarna2\\OpenGL.Iarna\\OpenGL.Iarna\\Window.h",
+              "RelativeDocumentMoniker": "OpenGL.Iarna\\Window.h",
+              "ToolTip": "C:\\BogdanC\\Facultate\\An3_sem1\\Iarna2\\OpenGL.Iarna\\OpenGL.Iarna\\Window.h",
+              "RelativeToolTip": "OpenGL.Iarna\\Window.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-16T15:56:32.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Window.cpp",
+              "DocumentMoniker": "C:\\BogdanC\\Facultate\\An3_sem1\\Iarna2\\OpenGL.Iarna\\OpenGL.Iarna\\Window.cpp",
+              "RelativeDocumentMoniker": "OpenGL.Iarna\\Window.cpp",
+              "ToolTip": "C:\\BogdanC\\Facultate\\An3_sem1\\Iarna2\\OpenGL.Iarna\\OpenGL.Iarna\\Window.cpp",
+              "RelativeToolTip": "OpenGL.Iarna\\Window.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-16T15:52:19.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "stb_image.cpp",
+              "DocumentMoniker": "C:\\BogdanC\\Facultate\\An3_sem1\\Iarna2\\OpenGL.Iarna\\OpenGL.Iarna\\stb_image.cpp",
+              "RelativeDocumentMoniker": "OpenGL.Iarna\\stb_image.cpp",
+              "ToolTip": "C:\\BogdanC\\Facultate\\An3_sem1\\Iarna2\\OpenGL.Iarna\\OpenGL.Iarna\\stb_image.cpp",
+              "RelativeToolTip": "OpenGL.Iarna\\stb_image.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-16T15:51:59.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Shader.cpp",
+              "DocumentMoniker": "C:\\BogdanC\\Facultate\\An3_sem1\\Iarna2\\OpenGL.Iarna\\OpenGL.Iarna\\Shader.cpp",
+              "RelativeDocumentMoniker": "OpenGL.Iarna\\Shader.cpp",
+              "ToolTip": "C:\\BogdanC\\Facultate\\An3_sem1\\Iarna2\\OpenGL.Iarna\\OpenGL.Iarna\\Shader.cpp",
+              "RelativeToolTip": "OpenGL.Iarna\\Shader.cpp",
+              "ViewState": "AgIAACkAAAAAAAAAAAAmwD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-16T15:33:01.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Model3D.cpp",
+              "DocumentMoniker": "C:\\BogdanC\\Facultate\\An3_sem1\\Iarna2\\OpenGL.Iarna\\OpenGL.Iarna\\Model3D.cpp",
+              "RelativeDocumentMoniker": "OpenGL.Iarna\\Model3D.cpp",
+              "ToolTip": "C:\\BogdanC\\Facultate\\An3_sem1\\Iarna2\\OpenGL.Iarna\\OpenGL.Iarna\\Model3D.cpp",
+              "RelativeToolTip": "OpenGL.Iarna\\Model3D.cpp",
+              "ViewState": "AgIAAH0AAAAAAAAAAAAmwJoAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-16T15:16:35.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Camera.cpp",
+              "DocumentMoniker": "C:\\BogdanC\\Facultate\\An3_sem1\\Iarna2\\OpenGL.Iarna\\OpenGL.Iarna\\Camera.cpp",
+              "RelativeDocumentMoniker": "OpenGL.Iarna\\Camera.cpp",
+              "ToolTip": "C:\\BogdanC\\Facultate\\An3_sem1\\Iarna2\\OpenGL.Iarna\\OpenGL.Iarna\\Camera.cpp",
+              "RelativeToolTip": "OpenGL.Iarna\\Camera.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-16T15:03:43.869Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
